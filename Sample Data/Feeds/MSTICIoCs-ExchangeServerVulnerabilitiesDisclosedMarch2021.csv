@@ -19,3 +19,36 @@ DateAdded,FirstSeen,Indicator,IndicatorType,TLP
 2021-03-09,,C:\inetpub\wwwroot\aspnet_client\HttpProxy.aspx,filepath,White
 2021-03-09,,C:\inetpub\wwwroot\aspnet_client\OutlookEN.aspx,filepath,White
 2021-03-09,,C:\inetpub\wwwroot\aspnet_client\supp0rt.aspx,filepath,White
+2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\OAB\log.aspx,filepath,White
+2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\log.aspx,filepath,White
+2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\logg.aspx,filepath,White
+2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\logout.aspx,filepath,White
+2021-03-11,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\Current\google.log,filepath,White
+2021-03-11,,C:\inetpub\wwwroot\aspnet_client\google.log,filepath,White
+2021-03-11,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\google.log,filepath,White
+2021-03-11,,C:\users\public\opera\opera_browser.exe,filepath,White
+2021-03-11,2021-03-08T20:16:39.0784849Z,e044d9f2d0f1260c3f4a543a1e67f33fcac265be114a1b135fd575b860d2b8c6,sha256,White
+2021-03-11,2021-03-09T09:23:17.7189583Z,2b9838da7edb0decd32b086e47a31e8f5733b5981ad8247a2f9508e232589bff,sha256,White
+2021-03-11,2021-03-09T13:14:14.3522438Z,feb3e6d30ba573ba23f3bd1291ca173b7879706d1fe039c34d53a4fdcdf33ede,sha256,White
+2021-03-15,2021-03-09T08:20:35.6649557Z,dd29e8d47dde124c7d14e614e03ccaab3ecaa50e0a0bef985ed59e98928bc13d,sha256,White
+2021-03-15,2021-03-10T15:25:16.6382191Z,201e4e9910dcdc8c4ffad84b60b328978db8848d265c0b9ba8473cf65dcd0c41,sha256,White
+2021-03-16,2021-03-05T01:38:38.1121792Z,5a5f4a1c7dbac3e1ac900f43415f378e88a7b591aff730d9715b62d6d782bdde,sha256,White
+2021-03-16,,C:\inetpub\wwwroot\aspnet_client\services.aspx,filepath,White
+2021-03-19,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\Current\themes\resources\logon.aspx,filepath,White
+2021-03-19,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\ecp\auth\TimeoutLogout.aspx,filepath,White
+2021-03-19,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\ews\333.aspx,filepath,White
+2021-03-19,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\OutlookUS.aspx,filepath,White
+2021-03-22,2021-03-19T08:28:31.8997563Z,733b4d5174669caab2bbcc9bfe51606a13346b70af59fccea4f479d1fde7b5d7,sha256,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackOutLookEN.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackCookiePL.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackIdAR.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackOutLookAR.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackReplaceIO.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackPassDA.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackLangPL.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackPassPL.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackCookieAS.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackPassAS.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackReplacePL.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackIdAS.aspx,filepath,White
+2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackLogsAS.aspx,filepath,White
