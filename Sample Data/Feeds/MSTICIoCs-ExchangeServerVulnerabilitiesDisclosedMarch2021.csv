@@ -8,18 +8,4 @@ DateAdded,FirstSeen,Indicator,IndicatorType,TLP
 2021-03-09,2021-02-23T09:14:05.8243534Z,811157f9c7003ba8d17b45eb3cf09bef2cecd2701cedb675274949296a6a183d,sha256,White
 2021-03-09,2021-01-24T12:59:40.6969216Z,65149e036fff06026d80ac9ad4d156332822dc93142cf1a122b1841ec8de34b5,sha256,White
 2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\8Lw7tAhF9i1pJnRo.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\OutlookZH.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\authhead.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\bob.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\current\one1.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\errorPage.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\errorPages.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\fatal-erro.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\log.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\logg.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\logout.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\one.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\one1.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\shel.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\shel2.aspx,filepath,White
-2021-03-09,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\shel90.aspx,filepath,White
+
