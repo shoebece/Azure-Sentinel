@@ -7,15 +7,4 @@ DateAdded,FirstSeen,Indicator,IndicatorType,TLP
 2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackLangAR.aspx,filepath,White
 2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackIdES.aspx,filepath,White
 2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackPassEN.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackLogsAR.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackIdPL.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackOutLookES.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackReplaceES.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackCookieES.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackReplaceEN.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackAuthSE.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackLangSE.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackLangIO.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackCookieIO.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackLogsDA.aspx,filepath,White
-2021-03-24,,C:\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\ChackPassIO.aspx,filepath,White
+
